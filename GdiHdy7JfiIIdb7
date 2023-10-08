@@ -26,7 +26,7 @@ end
 -- Dentro
 
 local PlaceID = game.PlaceId
-if PlaceID == 13822889 then
+if PlaceID == 13864661000 then
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/kJw7HeuJe8Hs8Hs886LumberTycoon/main/iHaubshaHy67527282LumberTycoon"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/BreakInHistory2IhsgeuuGa72y7syaga7/main/BreakInHistory2iUaua7ahuaha7ahauauah7aha7ay"))()
 end
