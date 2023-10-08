@@ -13,3 +13,20 @@ if PlaceID == 13822889 then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/kJw7HeuJe8Hs8Hs886LumberTycoon/main/iHaubshaHy67527282LumberTycoon"))()
 end
+
+--- Break In 2
+-- Home
+
+local PlaceID = game.PlaceId
+if PlaceID == 13864661000 then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/HomeBreakIn2KnaishsuahUahuahs/main/HomeBreakIn2KjJbaiBUhuahauHIJj"))()
+end
+
+-- Dentro
+
+local PlaceID = game.PlaceId
+if PlaceID == 13822889 then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fe773Vdoa/kJw7HeuJe8Hs8Hs886LumberTycoon/main/iHaubshaHy67527282LumberTycoon"))()
+end
