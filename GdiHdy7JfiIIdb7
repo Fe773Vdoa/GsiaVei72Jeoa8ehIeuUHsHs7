@@ -1,6 +1,6 @@
 local N = {
- Titulo = "Executed : Harlen Hub"
- Description = "Loading..."
+ Titulo = "Executed : Harlen Hub",
+ Description = "Loading...",
  Duration = 5
 }
 
